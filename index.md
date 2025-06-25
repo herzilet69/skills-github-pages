@@ -1,3 +1,4 @@
+<title>This is my web</title>
 <body>
 ---
 <h1>title Welcome to my blog!</h1>
